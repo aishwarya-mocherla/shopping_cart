@@ -22,8 +22,8 @@ body {
 }
 
 @media(max-width:767px) {
-    .card {
-        margin: 3vh auto
+       .card {
+        margin-top: 60px;
     }
 }
 
